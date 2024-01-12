@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image{
+    text-align: center;
+    margin-top: 20px;
+}
+.search{
+    text-align: center;
+    background-color: lightgrey;
+    
+}
+.search input{
+    width: 40%;
+    margin-left: 400px;
+    
+}
+.kutu{
+    background-color: aqua;
+    width: 30%;
+    height: 80px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 50px;
+}
+.kutu1{
+    background-color: aquamarine;
+    width: 30%;
+    height: 100px;
+    display: inline-block;
+}
+.kutu1 a{
+    display: block;
+    text-align: center;
+}
+.kutu2{
+    background-color: aqua;
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+}
+
